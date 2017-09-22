@@ -11,6 +11,9 @@ https://pusher.com/sessions/meetup/the-js-roundabout/webgl-map-with-mapbox-and-r
 
 https://www.linkedin.com/pulse/mapbox-google-maps-killer-kevin-krumwiede
 
+See maps side by side: 
+https://play.google.com/store/apps/details?id=aa.ms
+
 from 2015: 
 http://nextjuggernaut.com/blog/maps-api-mobile-app-guide-google-mapbox-openstreet-pricing/?utm_content=bufferc3c5b&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
 
