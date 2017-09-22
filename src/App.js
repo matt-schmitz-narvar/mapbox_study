@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
+import Map from './Map.js';
 import './App.css';
 
 class App extends Component {
@@ -7,8 +7,9 @@ class App extends Component {
     return (
       <div className="App">
         <div className="App-header">
-          <h2>MAPBOX</h2>
+          <h2>Potential Narvar India Office Locations</h2>
         </div>
+        <Map />
       </div>
     );
   }
